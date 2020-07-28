@@ -3,9 +3,9 @@
 - 🔭 I’m currently interested in AI and IoT Embedded Systems.
 - 🌱 Trying to learn Robotics and Web development.
 - 👯 Looking to collaborate on Real-World projects, implementing software on hardware, interfacing them etc. 
-- 🤔 Help with Deep Learning projects and Data Science is highly appreciated.
+- 🤔 Help with Deep Learning projects and Data Science, cause I m new to this field.
 - 💬 I am happy to share my experiences in robotics and the hardware field and would like to hear about yours too.
-- 📫 How to reach me: sidharthdinesh@gmail.com
+- 📫 Reach me at: sidharthdinesh@gmail.com
 
 
 <!--
