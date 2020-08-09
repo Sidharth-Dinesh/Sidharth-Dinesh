@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently interested in AI and IoT Embedded Systems.
-- 🌱 Currently Learning App and Web development.
-- 👯 Looking to collaborate on Real-World projects, implementing software on hardware, interfacing them etc. 
-- 🤔 Help with Deep Learning projects and Data Science, cause I am new to this field.
-- 💬 I am happy to share my experiences in robotics and the hardware field and would like to hear about yours too.
-- 📫 Reach me at: sidharthdinesh@gmail.com
+- I am a 3rd year Junior at NIT Nagpur, interested in AI and IoT Embedded Systems.
+- Currently learning 'Web Development' and 'Android App development'.
+- Looking to collaborate on Real-World projects, implementing software on hardware, interfacing them etc. 
+- New to the field of Deep Learning and Data Science, so help is highy appreciated.
+- I am happy to share my experiences on Embedded Systems and would like to hear about yours too.
+- Reach me at: sidharthdinesh@gmail.com
 
 
 <!--
