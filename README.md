@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I am a 3rd year Junior at NIT Nagpur, interested in AI and IoT Embedded Systems.
-- Currently learning 'Web Development' and 'Android App development'.
+- Currently learning Web Development and Android App Development.
 - Looking to collaborate on Real-World projects, implementing software on hardware, interfacing them etc. 
 - New to the field of Deep Learning and Data Science, so help is highy appreciated.
 - I am happy to share my experiences on Embedded Systems and would like to hear about yours too.
