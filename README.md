@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Real-World projects implmenting software on hardware, interfacing them etc. 
 - 🤔 I’m looking for help with Deep Learning projects and Data Science.
 - 💬 Ask me about anything related to basic hardware and its programming implementation.
-- 📫 How to reach me: sidharthdinesh@gmail.com
+- 📫 How to reach me: sidharth.d@students.vnit.ac.in
 -->
