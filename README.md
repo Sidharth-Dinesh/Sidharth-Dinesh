@@ -29,7 +29,7 @@ Hi, I'm Sidharth Dinesh, a final year undergraduate from India.
 
 - 🔭 I’m currently working on CNNs.
 - 🌱 I’m currently learning Web Development (Back-end)
-- 👯 I’m looking to collaborate for projects related to Computer Vision and DL.
+- 👯 I’m looking to collaborate on projects related to Computer Vision and DL.
 - 💬 Ask me about anything related to Statistical ML models.
 - 📫 Reach me at: sidharth.d@students.vnit.ac.in
 
