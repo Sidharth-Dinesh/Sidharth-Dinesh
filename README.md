@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm [Sidharth!](https://sidharthdinesh.github.io) 👋
 
-<br />
-<br />
+<!-- <br />
+<br /> -->
 
 Hi, I'm Sidharth Dinesh, a final year undergraduate from India.
 
