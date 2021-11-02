@@ -10,14 +10,14 @@ Hi, I'm Sidharth Dinesh, a final year undergraduate from India.
 
 - 🔭 I’m currently working on Edge Computing for Video Analytics.
 - 🌱 I’m currently learning React.js
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Sidharth-Dinesh?tab=repositories)
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Sidharth-Dinesh?tab=repositories)
 - 👯 I’m looking to collaborate on projects related to Web Development and DL.
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📝 &nbsp; Checkout my [resume]()
+- 💬 Ask me about anything tech related, I am happy to help;
+- 📝 Checkout my [resume]()
 - 📫 Reach me at: sidharth.d@students.vnit.ac.in
 
 <br>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="320" />
 <br>
 
 ### 🔨 Languages and Tools:
