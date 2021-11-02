@@ -32,6 +32,7 @@ Hi, I'm Sidharth Dinesh, a final year undergraduate from India.
 <a href='https://github.com/Sidharth-Dinesh/github-stats-transparent'>
   
   [![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidharth-Dinesh)](https://github.com/Sidharth-Dinesh/github-readme-stats)
+  <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidharth-Dinesh&layout=compact)](https://github.com/Sidharth-Dinesh/github-readme-stats)
 
 </a>
