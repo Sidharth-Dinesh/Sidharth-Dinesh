@@ -6,6 +6,9 @@
 
 <br />
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="400" />
+<br>
+
 Hi, I'm Sidharth Dinesh, a final year undergraduate from India.
 
 - 🔭 I’m currently working on Edge Computing for Video Analytics.
@@ -15,10 +18,6 @@ Hi, I'm Sidharth Dinesh, a final year undergraduate from India.
 - 💬 Ask me about anything tech related, I am happy to help;
 - 📝 Checkout my [resume]()
 - 📫 Reach me at: sidharth.d@students.vnit.ac.in
-
-<br>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="320" />
-<br>
 
 ### 🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
