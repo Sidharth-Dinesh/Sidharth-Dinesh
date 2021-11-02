@@ -3,8 +3,8 @@
 <a href="https://www.linkedin.com/in/sidharth-dinesh/">
   <img align="left" alt="Sidharth's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<!-- <br />
-<br /> -->
+
+<br />
 
 Hi, I'm Sidharth Dinesh, a final year undergraduate from India.
 
@@ -32,8 +32,8 @@ Hi, I'm Sidharth Dinesh, a final year undergraduate from India.
 ### 📊 Github Stats
 <a href='https://github.com/Sidharth-Dinesh/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/Sidharth-Dinesh/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/Sidharth-Dinesh/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 
