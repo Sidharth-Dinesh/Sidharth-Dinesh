@@ -32,11 +32,13 @@ Hi, I'm Sidharth Dinesh, a final year undergraduate from India.
 ### 📊 Github Stats
 <a href='https://github.com/Sidharth-Dinesh/github-stats-transparent'>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidharth-Dinesh)](https://github.com/Sidharth-Dinesh/github-readme-stats)
+  [![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidharth-Dinesh)](https://github.com/Sidharth-Dinesh/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidharth-Dinesh)](https://github.com/Sidharth-Dinesh/github-readme-stats)
+
 
   
-![Stats Overview](https://raw.githubusercontent.com/Sidharth-Dinesh/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Sidharth-Dinesh/github-stats-transparent/output/generated/languages.svg)
+<!-- ![Stats Overview](https://raw.githubusercontent.com/Sidharth-Dinesh/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/Sidharth-Dinesh/github-stats-transparent/output/generated/languages.svg) -->
 
 </a>
 
