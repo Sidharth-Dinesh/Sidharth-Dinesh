@@ -12,7 +12,7 @@ Hi, I'm Sidharth Dinesh, a final year undergraduate from India. I am an aspiring
 
 - 🔭 I’m currently working on Edge Computing for Video Analytics.
 - 🌱 I’m currently learning React.js
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Sidharth-Dinesh?tab=repositories)
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Sidharth-Dinesh/list-of-projects)
 - 👯 I’m looking to collaborate on projects related to Web Development and DL.
 - 💬 Ask me about anything tech related, I am happy to help;
 - 📝 Checkout my [resume]()
