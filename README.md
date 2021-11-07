@@ -9,7 +9,11 @@
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 <br> -->
 
-Hi, I'm Sidharth Dinesh, a final year undergraduate from India.
+Hi, I'm Sidharth Dinesh, a final year undergraduate from India. I am an aspiring CS graduate. I enjoy creating things that live on the internet and find the challenges that programming brings very exciting! Transitioning from electronics to computer science to has enabled me to continue my passion for learning and embrace my status as a forever student.
+
+Portfolio: Sidharth-Dinesh.github.io
+Linkedin: linkedin.com/in/sidharth-dinesh
+Email: sidharthdinesh@gmail.com
 
 - 🔭 I’m currently working on Edge Computing for Video Analytics.
 - 🌱 I’m currently learning React.js
