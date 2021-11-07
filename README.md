@@ -11,7 +11,7 @@
 Hi, I'm Sidharth Dinesh, a final year undergraduate from India. I am an aspiring CS graduate. I enjoy creating things that live on the internet and find the challenges that programming brings very exciting! Transitioning from electronics to computer science to has enabled me to continue my passion for learning and embrace my status as a forever student.
 
 - 🔭 I’m currently working on Edge Computing for Video Analytics.
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning and working on React.js applications.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Sidharth-Dinesh/list-of-projects)
 - 👯 I’m looking to collaborate on projects related to Web Development and DL.
 - 💬 Ask me about anything tech related, I am happy to help;
