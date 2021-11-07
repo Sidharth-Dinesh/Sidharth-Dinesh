@@ -44,6 +44,7 @@ Hi, I'm Sidharth Dinesh, a final year undergraduate from India. I am an aspiring
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 
 <br>
+<br>
 ### 📊 Github Stats
 <a href='https://github.com/Sidharth-Dinesh/github-stats-transparent'>
   
