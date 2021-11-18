@@ -15,7 +15,7 @@ Hi, I'm Sidharth Dinesh, a final year undergraduate from India. I am an aspiring
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Sidharth-Dinesh/list-of-projects)
 - 👯 I’m looking to collaborate on projects related to Web Development and DL.
 - 💬 Ask me about anything tech related, I am happy to help;
-- 📝 Checkout my [resume]()
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1hwz-xh8NzcK4XSc1iramPIzLUGHp3Ai8/view)
 - 📫 Reach me at: sidharth.d@students.vnit.ac.in
 
 ### 🔨 Languages and Tools:
