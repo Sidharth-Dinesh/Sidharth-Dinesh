@@ -8,15 +8,15 @@
 
 <br>
 
-Hi, I'm Sidharth Dinesh, a final year undergraduate from India. I am an aspiring CS graduate. I enjoy creating things that live on the internet and find the challenges that programming brings very exciting! Transitioning from electronics to computer science to has enabled me to continue my passion for learning and embrace my status as a forever student.
+Hi, I'm Sidharth Dinesh, a Masters in Computer Science at Arizona State University. I enjoy creating things that live on the internet and find the challenges that programming brings very exciting! Transitioning from electronics to computer science to has enabled me to continue my passion for learning and embrace my status as a forever student.
 
-- 🔭 I’m currently working on Edge Computing for Video Analytics.
-- 🌱 I’m currently learning and working on React.js applications.
+- 🔭 I’m currently working on Artificial Intelligence applications.
+- 🌱 I’m currently learning back-end web technologies.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Sidharth-Dinesh/list-of-projects).
-- 👯 I’m looking to collaborate on projects related to Web Development and DL.
+- 👯 I’m looking to collaborate on projects related to Web Development and Software Development.
 - 💬 Ask me about anything tech related, I am happy to help;
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1hwz-xh8NzcK4XSc1iramPIzLUGHp3Ai8/view).
-- 📫 Reach me at: sidharth.d@students.vnit.ac.in
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1pMxSfcKSiGWFgxabZ_6Jf3NeUwupTEXA/view?usp=sharing).
+- 📫 Reach me at: sidharthdinesh@gmail.com
 
 ### 🔨 Languages and Tools:
 <!-- <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
