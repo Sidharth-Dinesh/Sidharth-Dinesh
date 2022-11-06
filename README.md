@@ -10,7 +10,7 @@
 
 Hi, I'm Sidharth Dinesh, a Masters in Computer Science at Arizona State University. I enjoy creating things that live on the internet and find the challenges that programming brings very exciting! Transitioning from electronics to computer science to has enabled me to continue my passion for learning and embrace my status as a forever student.
 
-- 🔭 I’m currently working on Artificial Intelligence applications.
+- 🔭 I’m currently working on Artificial Intelligence and Database applications.
 - 🌱 I’m currently learning back-end web technologies.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Sidharth-Dinesh/list-of-projects).
 - 👯 I’m looking to collaborate on projects related to Web Development and Software Development.
