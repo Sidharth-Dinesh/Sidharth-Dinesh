@@ -15,7 +15,7 @@ Hi, I'm Sidharth Dinesh, a Masters in Computer Science at Arizona State Universi
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Sidharth-Dinesh/list-of-projects).
 - 👯 I’m looking to collaborate on projects related to Web Development and Software Development.
 - 💬 Ask me about anything tech related, I am happy to help;
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1pMxSfcKSiGWFgxabZ_6Jf3NeUwupTEXA/view?usp=sharing).
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/19SFc43Xw80RIFtBlL3YV_iR_UB-Tz8yU/view?usp=share_link).
 - 📫 Reach me at: sidharthdinesh@gmail.com
 
 ### 🔨 Languages and Tools:
