@@ -12,7 +12,7 @@ Hi, I'm Sidharth Dinesh, a Masters in Computer Science student at Arizona State 
 
 - 🔭 I’m currently working on Salesforce CRM and Database applications.
 - 🌱 I’m also learning back-end web integration with cloud computing services.
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Sidharth-Dinesh/list-of-projects) and check out my [Google Scholar](https://scholar.google.com/citations?user=Hk7LZx0AAAAJ&hl=en&oi=ao) page for [Journal Publication](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.7556).
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Sidharth-Dinesh/list-of-projects) and my [Google Scholar](https://scholar.google.com/citations?user=Hk7LZx0AAAAJ&hl=en&oi=ao) page.
 - 👯 I’m looking to collaborate on projects related to Web Development and Software Development.
 - 💬 Ask me anything about my Masters journey and transition, I would be happy to help.
 - 📫 Reach me at: sdinesh3@asu.edu
