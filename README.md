@@ -16,7 +16,6 @@ Hi, I'm Sidharth Dinesh, a Masters in Computer Science student at Arizona State 
 - 👯 I’m looking to collaborate on projects related to Web Development and Software Development.
 - 💬 Ask me anything about my Masters journey and transition, I would be happy to help.
 - 📫 Reach me at: sdinesh3@asu.edu
-
 - <!-- - 📝 Checkout my [Resume](https://drive.google.com/file/d/19SFc43Xw80RIFtBlL3YV_iR_UB-Tz8yU/view?usp=share_link)-->
 
 ### 🔨 Languages and Tools:
