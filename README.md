@@ -48,10 +48,11 @@ Hi, I'm Sidharth Dinesh, a Masters in Computer Science student at Arizona State 
 
 ### 📊 Github Stats
 <a href='https://github.com/Sidharth-Dinesh/github-stats-transparent'>
+
+  [![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidharth-Dinesh&count_private=true)](https://github.com/Sidharth-Dinesh/github-readme-stats)
+  <br> 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidharth-Dinesh&layout=compact)](https://github.com/Sidharth-Dinesh/github-readme-stats)
 
 </a>
 
-  <!--
-  [![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidharth-Dinesh&count_private=true)](https://github.com/Sidharth-Dinesh/github-readme-stats)
-  <br> -->
+  
