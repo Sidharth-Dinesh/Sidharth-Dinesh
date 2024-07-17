@@ -12,7 +12,7 @@ Hi, I'm Sidharth Dinesh, a Systems Analyst with the W. P. Carey School of Busine
 
 - 🔭 I’m currently working on Salesforce CRM and Database applications.
 - 🌱 I’m also learning back-end web integration with cloud computing services.
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Sidharth-Dinesh/list-of-projects) and my [Google Scholar](https://scholar.google.com/citations?user=Hk7LZx0AAAAJ&hl=en&oi=ao) page.
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Sidharth-Dinesh/list-of-projects) and check out my [Google Scholar](https://scholar.google.com/citations?user=Hk7LZx0AAAAJ&hl=en&oi=ao) page for my recent publications.
 - 👯 I’m looking to collaborate on projects related to Web Development and Software Development.
 - 💬 Ask me anything about my Masters journey or job transition, I would be happy to share and help.
 - 📫 Reach me at: sidharthdinesh@gmail.com
