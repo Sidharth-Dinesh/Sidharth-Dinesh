@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm Sidharth Dinesh, a Systems Analyst with the W. P. Carey School of Business at Arizona State University. I enjoy creating things that live on the internet and find the challenges that programming brings very exciting! Transitioning from electronics to computer science to has enabled me to continue my passion for learning and embrace my status as a forever student.
+Hi, I'm Sidharth Dinesh, a Systems Analyst with the W. P. Carey School of Business at Arizona State University. I enjoy creating things that live on the internet and find the challenges that programming brings very exciting! Transitioning from electronics to computer science has enabled me to continue my passion for learning and embrace my status as a forever student.
 
 - 🔭 I’m currently working on Database applications.
 - 🌱 I’m also learning back-end web integration with cloud computing services.
